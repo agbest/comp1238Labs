@@ -28,3 +28,5 @@ Shortcuts I would like to start using:
   - Win-Tab (switch tab)
   - Win-D (show desktop)
   - Win-PrtScrn (takes screenshot)
+
+[CLI commands](docs/cli.md)
