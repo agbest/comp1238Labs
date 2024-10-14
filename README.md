@@ -30,3 +30,4 @@ Shortcuts I would like to start using:
   - Win-PrtScrn (takes screenshot)
 
 [CLI commands](docs/cli.md)
+![Totally real Sun Tzu Quote](image/suntzu.jpg)
