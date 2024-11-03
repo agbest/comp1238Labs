@@ -1,44 +1,62 @@
 [
-{
-    "Name": "Lebron James",
-    "Sport":"Basketball",
-    "Team":{"Name":"Lakers","City":"Los Angeles"},
-    "Position":"Forward",
-    "Age":38
-  },
-  {
-    "Name": "Lionel Messi",
-    "Sport":"Soccer",
-    "Team":{"Name":"Inter Miami","City":"Miami"},
-    "Position":"Florida",
-    "Age":36
-  },
-  {
-    "Name": "Serena Williams",  // string
-    "Sport":"Tennis",           // string
-    "Team":{"Name":"N/A","City":"N/A"},  //object
-    "Position":"Player",        //string
-    "Age":41                  //number
-  },
-  {
-    "Name": "Tom Brady",
-    "Sport":"Football",
-    "Team":{"Name":"Buccaneers","City":"Tampa Bay"},
-    "Position":"Quarterback",
-    "Age":46
-  },
-  {
-    "Name": "Lewis Hamilton",
-    "Sport":"Formula 1",
-    "Team":{"Name":"Mercedes","City":"Brackley"},
-    "Position":"Driver",
-    "Age":39
-  },
-  {
-    "Name": "Thierry Neuville",
-    "Sport":"Rally",
-    "Team":{"Name":"Hyundai Shell Mobis WRT","City":"Alzenau"},
-    "Position":"Driver",
-    "Age":36
-  }
+    {
+        "Name": "Lebron James",
+        "Sport": "Basketball",
+        "Team": {
+            "Name": "Lakers",
+            "City": "Los Angeles"
+        },
+        "Position": "Forward",
+        "Age": 38
+    },
+    {
+        "Name": "Lionel Messi",
+        "Sport": "Soccer",
+        "Team": {
+            "Name": "Inter Miami",
+            "City": "Miami"
+        },
+        "Position": "Florida",
+        "Age": 36
+    },
+    {
+        "Name": "Serena Williams", // string
+        "Sport": "Tennis", // string
+        "Team": {
+            "Name": "N/A",
+            "City": "N/A"
+        }, //object
+        "Position": "Player", //string
+        "Age": 41 //number
+    },
+    {
+        "Name": "Tom Brady",
+        "Sport": "Football",
+        "Team": {
+            "Name": "Buccaneers",
+            "City": "Tampa Bay"
+        },
+        "Position": "Quarterback",
+        "Age": 46
+    },
+    {
+        "Name": "Lewis Hamilton",
+        "Sport": "Formula 1",
+        "Team": {
+            "Name": "Mercedes",
+            "City": "Brackley"
+        },
+        "Position": "Driver",
+        "Age": 39
+    },
+    {
+        "Name": "Thierry Neuville",
+        "Sport": "Rally",
+        "Team": {
+            "Name": "Hyundai Shell Mobis WRT",
+            "City": "Alzenau"
+        },
+        "Position": "Driver",
+        "Age": 36
+    }
 ]
